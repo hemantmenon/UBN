@@ -67,7 +67,7 @@
         android:id="@+id/route_start"
         android:layout_gravity="center_horizontal"
         android:layout_height="wrap_content"
-        android:text="SUBMIT TEST"/>
+        android:text="SUBMIT TEST TEST"/>
 
     </LinearLayout>
 </android.support.v4.widget.NestedScrollView>
